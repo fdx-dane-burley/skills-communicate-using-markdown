@@ -16,3 +16,9 @@ var myVar = "Hello, world!";
 -- SOQL
 SELECT Id, Name FROM Contact
 ```
+
+### How about a List?!
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Enjoy yourself!
